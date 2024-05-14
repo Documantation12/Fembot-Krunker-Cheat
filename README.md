@@ -38,14 +38,13 @@ Enhance your Krunker experience with the Femboy Krunker Cheat – a powerful and
 ---
 
 ## Screenshots 
-![image](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/4ce15493-4aa3-4bfa-ad6c-823eb6120668)
-![image](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/d0245008-1477-4c8a-95ac-88b53b763ce5)
-![image](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/1ca72d16-921c-4fc1-a6ea-1bd75bbd7212)
-![image](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/cfb7a709-3d29-46e0-b0e3-2318d4fac60b)
-![image](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/b116f9dd-1852-4768-b5d9-6e227f2c6974)
-![image](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/884c541a-818d-4079-8afd-1e11724382c3)
-![Screenshot 1](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/c35ff10b-ecac-4eb5-846b-1c262e33eabe)
-![Screenshot 2](https://github.com/Documantation12/Femboy-krunker-cheat/assets/134162456/6063fe36-f271-4577-bb87-cfcfcabc5967)
+![image](https://github.com/Documantation12/Fembot-Krunker-Cheat/assets/134162456/7f9c9928-f02f-4585-a97b-213578c14d27)
+![image](https://github.com/Documantation12/Fembot-Krunker-Cheat/assets/134162456/6f207bf5-966f-4538-b55f-ee229b2d3dd4)
+![image](https://github.com/Documantation12/Fembot-Krunker-Cheat/assets/134162456/9686a64a-15cc-495c-bc9f-fbaae47d65a5)
+![image](https://github.com/Documantation12/Fembot-Krunker-Cheat/assets/134162456/b3fb0de9-3206-4803-ac03-40e2dd91a561)
+![image](https://github.com/Documantation12/Fembot-Krunker-Cheat/assets/134162456/7cc71628-4b9f-4a07-8699-f5ab4895dee8)
+![image](https://github.com/Documantation12/Fembot-Krunker-Cheat/assets/134162456/e581be9f-2ec2-4974-82b2-7afe6060ac7b)
+![image](https://github.com/Documantation12/Fembot-Krunker-Cheat/assets/134162456/418b48c5-1e85-4eb4-b549-6e0146768612)
 
 ## Disclaimer
 
