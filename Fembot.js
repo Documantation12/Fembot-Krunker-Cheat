@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name        krunker Fembot.js
 // @namespace   krunker
-// @match       *://krunker.io/*
-// @exclude     *://krunker.io/social.html/*
-// @exclude     *://krunker.io/editor.html*
-// @exclude     *//krunker.io/viewer.html/*
+// @match       *://*.krunker.io/*
+// @match       *://*.browserfps.com/*
+// @exclude     https://krunker.io/social.html*
+// @exclude     https://krunker.io/editor.html*
+// @exclude     https://krunker.io/viewer.html*
 // @icon        https://github.com/Documantation12/Fembot-Krunker-Cheat/assets/134162456/0d1e46d9-1c86-45ca-9740-0752716cb52c
 // @grant       none
 // @version     1.3.0
